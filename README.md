@@ -1,4 +1,4 @@
-# Template Repo
+# Using Terraform with Microsoft Azure
 
 ## Table of Contents
 
@@ -8,6 +8,10 @@
 - [Support These Projects](#support-these-projects)
 
 ## Overview
+
+## Step One
+
+<https://www.terraform.io/downloads>
 
 ## Setup
 
